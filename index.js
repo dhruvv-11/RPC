@@ -15,9 +15,9 @@ rpc.on("ready", () => {
         buttons: [{label : "Channel Link <3" , url : "https://www.youtube.com/c/DGAMINGDhairya/videos"},{label : "Discord Link <3", url : "https://discord.gg/Z6vXdaBXJn"}]
     })
 
-    console.log("puri duniya ko bolo copy that")
+    console.log("RPC IS WORKING")
 })
 
 rpc.login({
-    clientId: '774878308172300288'
+    clientId: 'client-id-goes-here'
 })
